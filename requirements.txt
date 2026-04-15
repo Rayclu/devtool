@@ -1,0 +1,2 @@
+# DevTool requirements (currently minimal)
+# Will add more as features expand
